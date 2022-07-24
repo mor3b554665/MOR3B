@@ -87,6 +87,7 @@ async def help(client: Client, message: Message):
      )
   )
 
+
 @Client.on_message(filters.new_chat_members)
 async def new_chat(c: Client, m: Message):
     chat_id = m.chat.id
