@@ -24,7 +24,7 @@ async def start_(client: Client, message: Message):
                        ),
                   ],[
                     InlineKeyboardButton(
-                        " ⚙️ ¦ السورس ", url=f"https://t.me/B_e_m_0"
+                        " ⚙️ ¦ السورس ", url=f"https://t.me/godzeillah"
                     ),
                     InlineKeyboardButton(
                         " ☣️ ¦ جـروب الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"
@@ -34,7 +34,7 @@ async def start_(client: Client, message: Message):
                         " 🖥 ¦ الأوامــر ", url=f"https://telegra.ph/%F0%9D%91%BA%F0%9D%91%BC%F0%9D%91%B6%F0%9D%91%B9%F0%9D%91%AA%F0%9D%91%AC-%F0%9D%91%A9%F0%9D%91%AC%F0%9D%91%B4%F0%9D%91%A9%F0%9D%91%B6-06-190%9D%91%B6-06-19"
                     ),
                     InlineKeyboardButton(
-                        " 🧨 ¦ مطور السورس ", url="https://t.me/O1BOO"
+                        " 🧨 ¦ مطور السورس ", url="https://t.me/AM1_O"
                     )]
             ]
        ),
@@ -44,18 +44,18 @@ async def start_(client: Client, message: Message):
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/390d078bddeb22f38c69b.jpg",
-        caption=f""" [⍟ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝚐𝚘𝚍𝚣𝚎𝚕ł𝚊](t.me/B_e_m_0)  """,
+        caption=f""" [⍟ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝚐𝚘𝚍𝚣𝚎𝚕ł𝚊](t.me/AM1_O)  """,
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("افـ ـيـ ـونـ ـا بــــ ــاشـــ ــا🇪🇬!", url=f"https://t.me/O1BOO"),
+                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/AM1_O"),
            ],
             [ 
                 InlineKeyboardButton("نــــــــادر", url=f"https://t.me/Ng_102"),
             ],
             [
                 InlineKeyboardButton(
-                    "𝗦𝗨𝗢𝗥𝗖𝗘 𝗚𝗢𝗗𝗭𝗘𝗟ł𝗔᷂᷂🦖", url=f"https://t.me/B_e_m_0"
+                    "𝗦𝗨𝗢𝗥𝗖𝗘 𝗚𝗢𝗗𝗭𝗘𝗟ł𝗔᷂᷂🦖", url=f"https://t.me/godzeillah"
                 ),
             ],
             [
@@ -73,7 +73,7 @@ async def help(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("افـ ـيـ ـونـ ـا بــــ ــاشـــ ــا🇪🇬!", url=f"https://t.me/O1BOO"),
+                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/AM1_O"),
             ],
             [
                 InlineKeyboardButton(
