@@ -40,7 +40,7 @@
      "OWNER_USERNAME": {
       "description": "معرف مطور البوت بدون @",
       "required": false,
-      "value": "O1BOO"
+      "value": "AM1_O"
     },
     "SUPPORT_GROUP": {
       "description": "معرف جروبك بدون @",
@@ -50,7 +50,7 @@
      "UPDATES_CHANNEL": {
       "description": "معرف قناتك بدون @",
        "required": true,
-       "value": "B_e_m_0"
+       "value": "godzeillah"
      }, 
      "SUDO_USERS": {
       "description": "ضع ايدي بتاعك",
