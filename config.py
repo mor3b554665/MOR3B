@@ -18,4 +18,4 @@ PING_IMG = getenv("PING_IMG", "https://telegra.ph/file/e68855e3be3191ca84624.jpg
 SESSION_NAME = getenv("SESSION_NAME", None)
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "").split())
 PMPERMIT = getenv("PMPERMIT", "ENABLE")
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5520469387").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5519241772").split()))
