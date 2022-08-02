@@ -50,12 +50,12 @@
      "UPDATES_CHANNEL": {
       "description": "معرف قناتك بدون @",
        "required": true,
-       "value": "godzeillah"
+       "value": "o_lU_o1"
      }, 
      "SUDO_USERS": {
       "description": "ضع ايدي بتاعك",
       "required": true,
-      "value": "5520469387"
+      "value": "5519241772"
     },
     "START_IMG": {
       "description": "ضع صورة البوت مره تانيه",
