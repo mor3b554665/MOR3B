@@ -40,7 +40,7 @@
      "OWNER_USERNAME": {
       "description": "معرف مطور البوت بدون @",
       "required": false,
-      "value": "AM1_O"
+      "value": "o_lU_o"
     },
     "SUPPORT_GROUP": {
       "description": "معرف جروبك بدون @",
