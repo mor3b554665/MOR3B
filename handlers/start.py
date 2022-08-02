@@ -34,7 +34,7 @@ async def start_(client: Client, message: Message):
                         " 🖥 ¦ الأوامــر ", url=f"https://telegra.ph/%F0%9D%91%BA%F0%9D%91%BC%F0%9D%91%B6%F0%9D%91%B9%F0%9D%91%AA%F0%9D%91%AC-%F0%9D%91%A9%F0%9D%91%AC%F0%9D%91%B4%F0%9D%91%A9%F0%9D%91%B6-06-190%9D%91%B6-06-19"
                     ),
                     InlineKeyboardButton(
-                        " 🧨 ¦ مطور السورس ", url="https://t.me/AM1_O"
+                        " 🧨 ¦ مطور السورس ", url="https://t.me/o_lU_o"
                     )]
             ]
        ),
@@ -48,7 +48,7 @@ async def start(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/AM1_O"),
+                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/o_lU_o"),
            ],
             [ 
                 InlineKeyboardButton("نــــــــادر", url=f"https://t.me/Ng_102"),
@@ -73,7 +73,7 @@ async def help(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/AM1_O"),
+                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/o_lU_o"),
             ],
             [
                 InlineKeyboardButton(
