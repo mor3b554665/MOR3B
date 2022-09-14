@@ -43,7 +43,7 @@ async def start_(client: Client, message: Message):
 @Client.on_message(command(["مبرمج السورس","سورس" ,"السورس"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/390d078bddeb22f38c69b.jpg",
+        photo=f"https://telegra.ph/file/04e5e7ecd9b554abc118f.jpg",
         caption=f""" [⍟ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝚐𝚘𝚍𝚣𝚎𝚕ł𝚊](t.me/AM1_O)  """,
         reply_markup=InlineKeyboardMarkup(
          [
