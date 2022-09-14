@@ -14,7 +14,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━
  مرحبا انا بوت يمكنني تشغيل الاغاني في المكالمات الصوتيه
 اضغط على زر الاوامر لمعرفة طريقة التشغيل 
-قناة ســـورس جـــــــودزيـــــلا [قناة السورس](t.me/o_lU_o1)...
+قناة ســـورس ريـشــا [قناة السورس](t.me/UXSHX)...
 ━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -24,23 +24,23 @@ async def start_(client: Client, message: Message):
                        ),
                   ],[
                     InlineKeyboardButton(
-                        " ⚙️ ¦ السورس ", url=f"https://t.me/o_lU_o1"
+                        " ⚙️ ¦ السورس ", url=f"https://t.me/UXSHX"
                     ),
                     InlineKeyboardButton(
-                        " ☣️ ¦ جـروب الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        " ☣️ ¦ جـروب الدعم ", url=f"https://t.me/{GROUP_SUPPORT}"
                     )
                 ],[
                     InlineKeyboardButton(
                         " 🖥 ¦ الأوامــر ", url=f"https://telegra.ph/%F0%9D%91%BA%F0%9D%91%BC%F0%9D%91%B6%F0%9D%91%B9%F0%9D%91%AA%F0%9D%91%AC-%F0%9D%91%A9%F0%9D%91%AC%F0%9D%91%B4%F0%9D%91%A9%F0%9D%91%B6-06-190%9D%91%B6-06-19"
                     ),
                     InlineKeyboardButton(
-                        " 🧨 ¦ مطور السورس ", url="https://t.me/o_lU_o"
+                        " 🧨 ¦ مطور السورس ", url="https://t.me/R7SH0"
                     )]
             ]
        ),
     )
 
-@Client.on_message(command(["مبرمج السورس" ,"افيونه" ,"سورس" ,"السورس" ,"نادر" ,"جودزيلا" ,"افيونا"]) & filters.group & ~filters.edited)
+@Client.on_message(command(["مبرمج السورس","سورس" ,"السورس"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/390d078bddeb22f38c69b.jpg",
@@ -48,14 +48,14 @@ async def start(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/o_lU_o"),
+                InlineKeyboardButton(" ᯓ 𓆩 ˹ 𝐑𝐄𝐒𝐇𝐀 ˼ 𓆪 𓆃", url=f"https://t.me/R7SH0"),
            ],
             [ 
-                InlineKeyboardButton("نــــــــادر", url=f"https://t.me/Ng_102"),
+                InlineKeyboardButton(" ᯓ 𓆩 ˹ 𝐂𝐇𝐀𝐍𝐍𝐄𝑳 ˼ 𓆪 𓆃", url=f"https://t.me/R_e_s_h_a_1"),
             ],
             [
                 InlineKeyboardButton(
-                    "𝗦𝗨𝗢𝗥𝗖𝗘 𝗚𝗢𝗗𝗭𝗘𝗟ł𝗔᷂᷂🦖", url=f"https://t.me/o_lU_o1"
+                    " ᯓ 𓆩 ˹ 𝐂𝐇 𝐒𝐎𝐔𝐑𝐂𝐄 ˼ 𓆪 𓆃", url=f"https://t.me/UXSHX"
                 ),
             ],
             [
@@ -73,7 +73,7 @@ async def help(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/o_lU_o"),
+                InlineKeyboardButton(" ᯓ 𓆩 ˹ 𝐑𝐄𝐒𝐇𝐀 ˼ 𓆪 𓆃", url=f"https://t.me/R7SH0"),
             ],
             [
                 InlineKeyboardButton(
