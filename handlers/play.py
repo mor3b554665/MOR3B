@@ -205,7 +205,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(" ☣️ ¦ الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton(" 🧨 ¦ قناة السـورس ", url=f"https://t.me/B_e_m_0")
+                    InlineKeyboardButton(" 🧨 ¦ قناة السـورس ", url=f"https://t.me/Ng_112")
                 ],
                 [InlineKeyboardButton(" ⚙️ ¦ اخفاء ", callback_data="close_play")
                 ],
@@ -230,7 +230,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(" ☣️ ¦ الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton(" 🧨 ¦ قـناة السـورس ", url=f"https://t.me/B_e_m_0")
+                    InlineKeyboardButton(" 🧨 ¦ قـناة السـورس ", url=f"https://t.me/Ng_112")
                 ],
                 [InlineKeyboardButton(" ⚙️ ¦ اخفاء  ", callback_data="close_play")
                 ],
